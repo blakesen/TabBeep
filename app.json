@@ -1,0 +1,7 @@
+<?xml?>
+{
+"name": "Devdactic Ionic to Heroku Example",
+"description": "A Test Version of Beep",
+"repository": "https://github.com/blakesen/TabBeep.git",
+"keywords": ["ionic", "devdactic", "whatever"]
+}
